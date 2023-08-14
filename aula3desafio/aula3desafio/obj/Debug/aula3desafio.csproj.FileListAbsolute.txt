@@ -1,0 +1,8 @@
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\aula3desafio\aula3desafio\bin\Debug\aula3desafio.exe.config
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\aula3desafio\aula3desafio\bin\Debug\aula3desafio.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\aula3desafio\aula3desafio\bin\Debug\aula3desafio.pdb
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\aula3desafio\aula3desafio\obj\Debug\aula3desafio.csproj.AssemblyReference.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\aula3desafio\aula3desafio\obj\Debug\aula3desafio.csproj.SuggestedBindingRedirects.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\aula3desafio\aula3desafio\obj\Debug\aula3desafio.csproj.CoreCompileInputs.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\aula3desafio\aula3desafio\obj\Debug\aula3desafio.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\aula3desafio\aula3desafio\obj\Debug\aula3desafio.pdb
