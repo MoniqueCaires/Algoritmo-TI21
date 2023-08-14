@@ -10,7 +10,7 @@ namespace aula3desafio1
     {
         static void Main(string[] args)
         {
-            float a, b, c, resultado;
+            float a, b, c ;
             float soma, divisao;
 
             Console.Write("Digite um número: ");

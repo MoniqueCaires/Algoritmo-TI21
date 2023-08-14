@@ -23,9 +23,17 @@ namespace aula3desafio2
             Console.Write("Digite o valor pago pelo cliente: ");
             pagamento = float.Parse(Console.ReadLine());
 
-            subtracao = pagamento - compra;
-            Console.WriteLine("Seu troco é: " + subtracao);
-            
+            if (compra > pagamento)
+            {
+                Console.Write("Seu valor é insulficiente ");
+                Console.ReadKey();
+
+            }
+            else
+            {
+                subtracao = pagamento - compra;
+                Console.WriteLine("Seu troco é: " + subtracao);
+            }
            
 
 
