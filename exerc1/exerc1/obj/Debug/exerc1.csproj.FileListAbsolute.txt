@@ -1,0 +1,8 @@
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\exerc1\exerc1\obj\Debug\exerc1.csproj.AssemblyReference.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\exerc1\exerc1\obj\Debug\exerc1.csproj.SuggestedBindingRedirects.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\exerc1\exerc1\obj\Debug\exerc1.csproj.CoreCompileInputs.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\exerc1\exerc1\bin\Debug\exerc1.exe.config
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\exerc1\exerc1\bin\Debug\exerc1.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\exerc1\exerc1\bin\Debug\exerc1.pdb
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\exerc1\exerc1\obj\Debug\exerc1.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\exerc1\exerc1\obj\Debug\exerc1.pdb

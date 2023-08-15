@@ -1,0 +1,8 @@
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\Nota\Nota\bin\Debug\Nota.exe.config
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\Nota\Nota\bin\Debug\Nota.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\Nota\Nota\bin\Debug\Nota.pdb
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\Nota\Nota\obj\Debug\Nota.csproj.AssemblyReference.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\Nota\Nota\obj\Debug\Nota.csproj.SuggestedBindingRedirects.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\Nota\Nota\obj\Debug\Nota.csproj.CoreCompileInputs.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\Nota\Nota\obj\Debug\Nota.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\Nota\Nota\obj\Debug\Nota.pdb

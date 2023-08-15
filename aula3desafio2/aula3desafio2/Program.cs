@@ -25,7 +25,7 @@ namespace aula3desafio2
 
             if (compra > pagamento)
             {
-                Console.Write("Seu valor é insulficiente ");
+                Console.Write("Seu valor é insuficiente ");
                 Console.ReadKey();
 
             }
