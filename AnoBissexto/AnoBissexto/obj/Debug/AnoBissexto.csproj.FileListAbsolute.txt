@@ -1,0 +1,8 @@
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.exe.config
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.pdb
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.csproj.AssemblyReference.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.csproj.SuggestedBindingRedirects.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.pdb

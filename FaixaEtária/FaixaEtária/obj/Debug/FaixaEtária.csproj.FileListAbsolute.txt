@@ -1,0 +1,8 @@
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\FaixaEtária\FaixaEtária\obj\Debug\FaixaEtária.csproj.AssemblyReference.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\FaixaEtária\FaixaEtária\obj\Debug\FaixaEtária.csproj.SuggestedBindingRedirects.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\FaixaEtária\FaixaEtária\obj\Debug\FaixaEtária.csproj.CoreCompileInputs.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\FaixaEtária\FaixaEtária\bin\Debug\FaixaEtária.exe.config
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\FaixaEtária\FaixaEtária\bin\Debug\FaixaEtária.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\FaixaEtária\FaixaEtária\bin\Debug\FaixaEtária.pdb
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\FaixaEtária\FaixaEtária\obj\Debug\FaixaEtária.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\FaixaEtária\FaixaEtária\obj\Debug\FaixaEtária.pdb

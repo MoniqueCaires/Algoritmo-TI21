@@ -1,0 +1,8 @@
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\VerificaçãoTriângulo\VerificaçãoTriângulo\bin\Debug\VerificaçãoTriângulo.exe.config
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\VerificaçãoTriângulo\VerificaçãoTriângulo\bin\Debug\VerificaçãoTriângulo.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\VerificaçãoTriângulo\VerificaçãoTriângulo\bin\Debug\VerificaçãoTriângulo.pdb
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\VerificaçãoTriângulo\VerificaçãoTriângulo\obj\Debug\VerificaçãoTriângulo.csproj.AssemblyReference.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\VerificaçãoTriângulo\VerificaçãoTriângulo\obj\Debug\VerificaçãoTriângulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\VerificaçãoTriângulo\VerificaçãoTriângulo\obj\Debug\VerificaçãoTriângulo.csproj.CoreCompileInputs.cache
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\VerificaçãoTriângulo\VerificaçãoTriângulo\obj\Debug\VerificaçãoTriângulo.exe
+C:\Users\monique.ccfernandes\source\repos\Algoritmo-TI21\VerificaçãoTriângulo\VerificaçãoTriângulo\obj\Debug\VerificaçãoTriângulo.pdb
